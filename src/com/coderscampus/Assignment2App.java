@@ -32,7 +32,6 @@ public class Assignment2App {
 				userWon = true;
 				break;
 			}
-			
 		}
 		if(userWon) {
 			System.out.println("you win!!");
